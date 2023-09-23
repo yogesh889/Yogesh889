@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![IMG_1383](https://github.com/yogesh889/Yogesh889/assets/60712411/444666a5-30fd-430f-b4fa-0b602321dcd1)
+
+
 Hello, fellow developers! 👋 Welcome to my GitHub profile!
 
 I'm an enthusiastic and versatile JavaScript Developer, passionate about crafting exceptional web applications and exploring cutting-edge technologies. With a strong foundation in front-end and back-end development, I love turning ideas into reality through clean, maintainable, and scalable code.
