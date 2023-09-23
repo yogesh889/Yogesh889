@@ -40,7 +40,7 @@ Version Control: Git, GitHub
 ## [📫 Let's Connect](https://github.com/yogesh889#-lets-connect)
 I'm always excited to connect with like-minded developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me through the following channels:
 
-Email: [mritunjaygupta004@gmail.com](mritunjaygupta004@gmail.com)
+Email: [8058yogesh@Gmail.com](8058yogesh@gmail.com)
 
 LinkedIn: [https://www.linkedin.com/in/mritunjay-gupta](https://www.linkedin.com/in/yogesh-kumar-b47b911a2/)
 
