@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![IMG_1383](https://github.com/yogesh889/Yogesh889/assets/60712411/444666a5-30fd-430f-b4fa-0b602321dcd1)
-
+![IMG_1383](https://github.com/yogesh889/Yogesh889/assets/60712411/eebae107-fc74-437a-b565-7dc1cf3cab6b)
 
 Hello, fellow developers! 👋 Welcome to my GitHub profile!
 
