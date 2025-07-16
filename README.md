@@ -38,7 +38,7 @@ I'm always excited to connect with like-minded developers, tech enthusiasts, and
 
 Email: [8058yogesh@Gmail.com](8058yogesh@gmail.com)
 
-LinkedIn: [https://www.linkedin.com/in/mritunjay-gupta](https://www.linkedin.com/in/yogesh-kumar-b47b911a2/)
+LinkedIn: [https://www.linkedin.com/in/yogesh-kumar](https://www.linkedin.com/in/yogesh-kumar-b47b911a2/)
 
 ## [🎉 Let's Build Something Awesome Together!](https://github.com/yogesh889#-lets-build-something-awesome-together)
 I'm eager to collaborate on exciting projects and contribute to the open-source community. If you have any ideas or opportunities, don't hesitate to get in touch. Let's create something amazing together! 👨‍💻
